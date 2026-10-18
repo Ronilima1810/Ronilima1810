@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="285" viewBox="0 0 1200 285" role="img" aria-labelledby="t d">
+<title id="t">Core expertise — Roni Lima</title>
+<desc id="d">Três áreas de atuação: Data Analytics, Software Engineering e Operations &amp; Projects</desc>
+<defs>
+<linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0a1324"/><stop offset=".6" stop-color="#101c31"/><stop offset="1" stop-color="#0b2431"/></linearGradient>
+<linearGradient id="ac" x1="0" x2="1"><stop stop-color="#62e0db"/><stop offset="1" stop-color="#518ef8"/></linearGradient>
+</defs>
+<rect width="1200" height="285" rx="20" fill="url(#bg)" stroke="#294259"/>
+<path d="M45 53H1155" stroke="#2a405a"/>
+<rect x="43" y="26" width="7" height="7" rx="2" fill="#53e2c6"/>
+<text x="60" y="34" font-family="Arial,Helvetica,sans-serif" fill="#c6d9ed" font-weight="700" font-size="13" letter-spacing="2.2">CORE EXPERTISE</text>
+<text x="1155" y="34" text-anchor="end" font-family="Arial,Helvetica,sans-serif" fill="#7697b8" font-size="12" letter-spacing="1.5">BUILD  /  MEASURE  /  IMPROVE</text>
+<g font-family="Arial,Helvetica,sans-serif">
+<rect x="35" y="74" width="365" height="173" rx="14" fill="#101f34" stroke="#2d4c69"/>
+<rect x="419" y="74" width="365" height="173" rx="14" fill="#101f34" stroke="#2d4c69"/>
+<rect x="803" y="74" width="362" height="173" rx="14" fill="#101f34" stroke="#2d4c69"/>
+<g stroke="#5ad8e6" stroke-width="3" fill="none" stroke-linejoin="round" stroke-linecap="round">
+<rect x="62" y="106" width="45" height="42" rx="7"/>
+<path d="M72 137v-9m12 9v-17m12 17v-24"/>
+<path d="M449 144l14-14 14 14 14-14m-43 4v-18h43v18"/>
+<path d="M824 141h52m-46-27h41v27m-34-26v26"/>
+</g>
+<text x="63" y="174" font-weight="700" fill="#f0f7ff" font-size="21">Data Analytics</text>
+<text x="63" y="198" fill="#99b3c9" font-size="14">Power BI  ·  SQL  ·  Python</text>
+<text x="63" y="222" fill="#70dfd5" font-size="12" letter-spacing=".8">BUSINESS INTELLIGENCE</text>
+<text x="448" y="174" font-weight="700" fill="#f0f7ff" font-size="21">Software Engineering</text>
+<text x="448" y="198" fill="#99b3c9" font-size="14">Web Apps  ·  APIs  ·  Automation</text>
+<text x="448" y="222" fill="#70dfd5" font-size="12" letter-spacing=".8">PRODUCT &amp; DEVELOPMENT</text>
+<text x="831" y="174" font-weight="700" fill="#f0f7ff" font-size="21">Operations &amp; Projects</text>
+<text x="831" y="198" fill="#99b3c9" font-size="14">Logistics  ·  Planning  ·  KPIs</text>
+<text x="831" y="222" fill="#70dfd5" font-size="12" letter-spacing=".8">PROCESS IMPROVEMENT</text>
+</g>
+</svg>
