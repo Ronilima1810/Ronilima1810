@@ -1,231 +1,192 @@
 <p align="center">
-  <img src="assets/roni-banner.svg" alt="Roni Lima — Dados, Software e Automação" width="100%" />
+  <img src="assets/roni-banner.svg" alt="Roni Lima | Software, Data & Automation" width="100%" />
 </p>
 
-<h1 align="center">Roni Gomes de Lima 👋</h1>
+<h1 align="center">Roni Gomes de Lima</h1>
 
 <p align="center">
-  <strong>Analista de Dados & BI · Desenvolvimento de Sistemas · Planejamento e Logística</strong>
-</p>
-
-<p align="center">
-  Tecnologia conectada ao negócio: transformo dados, processos e desafios operacionais em indicadores, automações e soluções de software.
+  <strong>Data & Business Intelligence Analyst | Software Developer | Logistics & Operations</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/roni-gomes-de-lima-1b73a5178/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar no LinkedIn" /></a>
-  <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/"><img src="https://img.shields.io/badge/Portfólio-Abrir_demos-098B8F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Abrir demos do portfólio" /></a>
+  Desenvolvo soluções que conectam dados, software e processos operacionais — da análise de indicadores à entrega de aplicações e automações.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_Itaquaquecetuba-São_Paulo-111827?style=flat-square" alt="Localização: Itaquaquecetuba, São Paulo" />
-  <img src="https://img.shields.io/badge/Business_Intelligence-Data_Driven-0A3144?style=flat-square" alt="Business Intelligence" />
-  <img src="https://img.shields.io/badge/Software_%26_Automação-Tech_Solutions-0A3144?style=flat-square" alt="Sistemas e Automação" />
+  <a href="https://www.linkedin.com/in/roni-gomes-de-lima-1b73a5178/"><img src="https://img.shields.io/badge/LINKEDIN-PERFIL_PROFISSIONAL-0B2540?style=for-the-badge&logo=linkedin&logoColor=68B5F9" alt="Perfil profissional no LinkedIn"/></a>
+  <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/"><img src="https://img.shields.io/badge/PORTFOLIO-OPEN_LIVE_DEMOS-0C595E?style=for-the-badge&logo=githubpages&logoColor=A6F6E5" alt="Abrir demonstrações navegáveis"/></a>
 </p>
+
+<p align="center"><sub>SÃO PAULO, BRASIL &nbsp; / &nbsp; BUSINESS INTELLIGENCE &nbsp; / &nbsp; SOFTWARE DEVELOPMENT</sub></p>
 
 ---
 
-## 👨‍💻 Perfil profissional
+## 01 / Professional Profile
 
 <table>
   <tr>
-    <td valign="top" width="62%">
-      <h3>Quem sou eu</h3>
-      <p>Profissional com experiência em <strong>análise de dados, planejamento, suporte a projetos e operações logísticas</strong>. Atuo conectando a visão de negócio à implementação técnica: desde tratamento de dados em <strong>Power BI, SQL e Excel</strong> até desenvolvimento de dashboards, sistemas e automações.</p>
-      <p>Tenho vivência em ambientes operacionais, com foco em <strong>indicadores de desempenho, identificação de gargalos, melhoria contínua e apoio à tomada de decisão</strong>.</p>
+    <td width="65%" valign="top">
+      <h3>Sobre mim</h3>
+      <p>Profissional de <strong>análise de dados e planejamento</strong>, com vivência em operações logísticas, suporte a projetos e melhoria contínua. Combino conhecimento de negócio com desenvolvimento técnico para transformar dados em decisões e necessidades operacionais em ferramentas práticas.</p>
+      <p>Atuo com <strong>Power BI, DAX, SQL, Excel e Python</strong>, além de desenvolver interfaces web, aplicações, integrações e automações orientadas à eficiência e à experiência de uso.</p>
     </td>
-    <td valign="top" width="38%">
-      <h3>Áreas de atuação</h3>
-      <p>📊 Dados, BI e indicadores</p>
-      <p>⚙️ Desenvolvimento e automação</p>
-      <p>📦 Planejamento e logística</p>
-      <p>🧩 Processos e projetos</p>
+    <td width="35%" valign="top">
+      <h3>Foco de atuação</h3>
+      <p><strong>Data Analytics</strong><br/><sub>BI, indicadores, ETL e relatórios</sub></p>
+      <p><strong>Software Development</strong><br/><sub>Sistemas, APIs e automação</sub></p>
+      <p><strong>Operations</strong><br/><sub>Logística, planejamento e projetos</sub></p>
     </td>
   </tr>
 </table>
 
-### 💼 Experiência profissional
+<p align="center"><img src="assets/expertise-panel.svg" width="100%" alt="Áreas de especialidade: Data Analytics, Software Engineering e Operations & Projects"/></p>
+
+## 02 / Professional Experience
 
 <table>
   <tr>
-    <td valign="top" width="50%">
-      <h4>📍 Candide Brinquedos</h4>
-      <strong>Administrativo Logístico | BI e Planejamento</strong><br/>
-      <sub>Março de 2025 — atual</sub>
-      <p>Tratamento e análise de dados operacionais, dashboards em Power BI e controles em Excel. Acompanhamento de produtividade, desempenho logístico e identificação de oportunidades de melhoria.</p>
+    <td width="50%" valign="top">
+      <sub>MAR 2025 — ATUAL</sub>
+      <h3>Candide Brinquedos</h3>
+      <strong>Administrativo Logístico | Business Intelligence e Planejamento</strong>
+      <p>Análise e tratamento de dados operacionais, desenvolvimento de dashboards em Power BI e controles em Excel. Acompanhamento de indicadores logísticos, produtividade, gargalos e oportunidades de melhoria.</p>
+      <sub>Guarulhos, São Paulo</sub>
     </td>
-    <td valign="top" width="50%">
-      <h4>📍 Atento Brasil</h4>
-      <strong>Especialista em Suporte Atendimento III</strong><br/>
-      <sub>Agosto de 2021 — julho de 2024</sub>
-      <p>Suporte a operações B2B, projetos e demandas críticas; elaboração de análises e relatórios gerenciais com Power BI, Excel e Salesforce. Experiência com Siebel, WFM e outros sistemas operacionais.</p>
+    <td width="50%" valign="top">
+      <sub>AGO 2021 — JUL 2024</sub>
+      <h3>Atento Brasil</h3>
+      <strong>Especialista em Suporte Atendimento III</strong>
+      <p>Suporte a operações B2B, demandas críticas e projetos. Relatórios gerenciais com Power BI, Salesforce e Excel; integração de informações e suporte à resolução de problemas operacionais.</p>
+      <sub>Operações e projetos</sub>
     </td>
   </tr>
 </table>
 
-### 🎓 Formação e desenvolvimento
+## 03 / Education & Development
 
 <table>
   <tr>
-    <td valign="top" width="50%">
-      <strong>Formação acadêmica</strong>
-      <ul>
-        <li><strong>Análise e Desenvolvimento de Sistemas</strong> — FMU (em andamento)</li>
-        <li><strong>Gestão de Recursos Humanos</strong> — Universidade Anhembi Morumbi (2022)</li>
-        <li><strong>MBA em Gestão de Projetos</strong></li>
-        <li><strong>Pós-graduação em Business Intelligence</strong></li>
-        <li><strong>Pós-graduação em Inteligência Artificial</strong></li>
-      </ul>
+    <td width="50%" valign="top">
+      <h3>Formação acadêmica</h3>
+      <p><strong>Análise e Desenvolvimento de Sistemas</strong><br/><sub>FMU | Em andamento</sub></p>
+      <p><strong>Gestão de Recursos Humanos</strong><br/><sub>Universidade Anhembi Morumbi | Concluído em 2022</sub></p>
+      <p><strong>MBA em Gestão de Projetos</strong></p>
+      <p><strong>Pós-graduações em Business Intelligence e Inteligência Artificial</strong></p>
     </td>
-    <td valign="top" width="50%">
-      <strong>Ferramentas e formação complementar</strong>
-      <ul>
-        <li>Power BI, DAX e Power Query</li>
-        <li>Excel avançado, SQL, ETL e modelagem de dados</li>
-        <li>Python, PHP, JavaScript, React e Java</li>
-        <li>Oracle NetSuite, WMS, Salesforce e Siebel</li>
-        <li>Linux, Docker, Apache e bancos de dados</li>
-      </ul>
+    <td width="50%" valign="top">
+      <h3>Conhecimentos técnicos</h3>
+      <p><strong>Dados</strong><br/><sub>Power BI, DAX, Power Query, SQL, modelagem e ETL</sub></p>
+      <p><strong>Engenharia de software</strong><br/><sub>Python, PHP, JavaScript, React, Java e aplicações desktop</sub></p>
+      <p><strong>Plataformas</strong><br/><sub>Linux, Docker, Apache, bancos de dados, WMS e Oracle NetSuite</sub></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 04 / GitHub Analytics
 
-<p align="center"><sub>ATIVIDADE · LINGUAGENS · CONTRIBUIÇÕES</sub></p>
+<p align="center"><sub>PUBLIC ACTIVITY &nbsp; / &nbsp; REPOSITORY LANGUAGES &nbsp; / &nbsp; CONTRIBUTIONS</sub></p>
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=Ronilima1810&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&card_width=400" width="100%" alt="Estatísticas da conta GitHub" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Ronilima1810&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&card_width=400" width="100%" alt="Estatísticas da atividade da conta" />
     </td>
     <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronilima1810&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" width="100%" alt="Distribuição das linguagens dos repositórios" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronilima1810&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" width="100%" alt="Linguagens dos repositórios do GitHub" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=Ronilima1810&theme=tokyonight&hide_border=true&locale=pt_BR" width="74%" alt="Histórico de sequência de contribuições" />
+      <img src="https://streak-stats.demolab.com?user=Ronilima1810&theme=tokyonight&hide_border=true&locale=pt_BR" width="72%" alt="Sequência de contribuições" />
     </td>
   </tr>
 </table>
 
-<p align="center"><sub>Gráficos gerados por serviços externos. Os números refletem os dados disponíveis no GitHub e podem não contemplar todo o trabalho feito em projetos privados ou fora da plataforma.</sub></p>
+<p align="center"><sub>Os gráficos refletem dados disponibilizados pelo GitHub e por serviços externos. Trabalhos em sistemas privados ou fora do GitHub podem não ser contabilizados.</sub></p>
 
 ---
 
-## 🧰 Ecossistema tecnológico
+## 05 / Technology Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-101B2E?style=for-the-badge&logo=powerbi&logoColor=FACC15" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Python-101B2E?style=for-the-badge&logo=python&logoColor=FACC15" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-101B2E?style=for-the-badge&logo=mysql&logoColor=22D3EE" alt="SQL"/>
-  <img src="https://img.shields.io/badge/JavaScript-101B2E?style=for-the-badge&logo=javascript&logoColor=FACC15" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-101B2E?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/PHP-101B2E?style=for-the-badge&logo=php&logoColor=93C5FD" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Java-101B2E?style=for-the-badge&logo=openjdk&logoColor=F97316" alt="Java"/>
-  <img src="https://img.shields.io/badge/Docker-101B2E?style=for-the-badge&logo=docker&logoColor=22D3EE" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Linux-101B2E?style=for-the-badge&logo=linux&logoColor=FFFFFF" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Python-111C2F?style=for-the-badge&logo=python&logoColor=F5C84C" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-111C2F?style=for-the-badge&logo=mysql&logoColor=66CFF2" alt="SQL" />
+  <img src="https://img.shields.io/badge/Power_BI-111C2F?style=for-the-badge&logo=powerbi&logoColor=F5C84C" alt="Power BI" />
+  <img src="https://img.shields.io/badge/JavaScript-111C2F?style=for-the-badge&logo=javascript&logoColor=F5C84C" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-111C2F?style=for-the-badge&logo=react&logoColor=66CFF2" alt="React" />
+  <img src="https://img.shields.io/badge/PHP-111C2F?style=for-the-badge&logo=php&logoColor=AFB9EF" alt="PHP" />
+  <img src="https://img.shields.io/badge/Java-111C2F?style=for-the-badge&logo=openjdk&logoColor=F59D69" alt="Java" />
+  <img src="https://img.shields.io/badge/Docker-111C2F?style=for-the-badge&logo=docker&logoColor=66CFF2" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-111C2F?style=for-the-badge&logo=linux&logoColor=FFFFFF" alt="Linux" />
 </p>
 
-<table align="center">
+---
+
+## 06 / Featured Projects
+
+<p align="center">
+  <strong>Experimente as interfaces no navegador</strong><br/>
+  <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/"><img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-LIVE_DEMONSTRATIONS-0C595E?style=for-the-badge&logo=githubpages&logoColor=A6F6E5" alt="Abrir portfólio interativo" /></a>
+</p>
+
+<table width="100%">
   <tr>
-    <td width="33%" valign="top">
-      <h3>📈 Analytics &amp; BI</h3>
-      <p>Indicadores, dashboards, inteligência operacional e suporte à decisão.</p>
+    <td width="50%" valign="top">
+      <sub>01 / DATA PLATFORM</sub>
+      <h3>BI Logístico</h3>
+      <p>Visualização de indicadores de expedição, produtividade e eficiência de frete.</p>
+      <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/?demo=bi"><strong>Live demo</strong></a> · <a href="https://github.com/Ronilima1810/bi-logistica">Source repository</a>
     </td>
-    <td width="33%" valign="top">
-      <h3>💻 Software</h3>
-      <p>Sistemas web e desktop, APIs, integrações e automação de processos.</p>
+    <td width="50%" valign="top">
+      <sub>02 / LAST MILE</sub>
+      <h3>Roteirizador de Entregas</h3>
+      <p>Simulação de sequência de paradas, acompanhamento e conclusão de uma rota de entregas.</p>
+      <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/?demo=rota"><strong>Live demo</strong></a>
     </td>
-    <td width="33%" valign="top">
-      <h3>🚚 Logística &amp; Projetos</h3>
-      <p>Expedição, transporte, roteirização, custos e melhoria contínua.</p>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>03 / WEB APPLICATION</sub>
+      <h3>Sistema de Pedidos</h3>
+      <p>Interface de catálogo e carrinho com fluxo demonstrativo para pedidos personalizados.</p>
+      <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/?demo=pedidos"><strong>Live demo</strong></a> · <a href="https://github.com/Ronilima1810/sistema-pedidos">Source repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <sub>04 / FRONTEND</sub>
+      <h3>Formulário de Matrícula</h3>
+      <p>Projeto frontend HTML/CSS com layout responsivo e componentes customizados.</p>
+      <a href="https://ronilima1810.github.io/formulario-de-matricula/"><strong>Live site</strong></a> · <a href="https://github.com/Ronilima1810/formulario-de-matricula">Source repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>05 / DESKTOP APPLICATION</sub>
+      <h3>Tradutor de Arquivos</h3>
+      <p>Simulação web do fluxo de tradução de uma aplicação desktop construída em Python.</p>
+      <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/?demo=tradutor"><strong>Live demo</strong></a> · <a href="https://github.com/Ronilima1810/Sistemas">Source repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <sub>PORTFOLIO / ALL PROJECTS</sub>
+      <h3>Explore More</h3>
+      <p>Conheça todos os previews em uma vitrine responsiva e navegável.</p>
+      <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/"><strong>Open project gallery</strong></a>
     </td>
   </tr>
 </table>
 
+<p><sub><strong>Nota:</strong> Os previews de BI, roteirização, pedidos e tradução são demonstrações independentes com dados fictícios, sem conexão com sistemas empresariais. O formulário de matrícula disponibiliza a interface original.</sub></p>
+
 ---
 
-## 🚀 Projetos com preview navegável
+## 07 / Engineering Principles
+
+<p><strong>Business-driven development</strong> — Soluções pensadas para processos e necessidades reais.</p>
+<p><strong>Usability &amp; clarity</strong> — Interfaces legíveis, consistentes e orientadas à experiência.</p>
+<p><strong>Data &amp; automation</strong> — Integração entre informações, indicadores e execução.</p>
+<p><strong>Security by design</strong> — Separação entre demonstrações públicas, dados pessoais, credenciais e sistemas proprietários.</p>
 
 <p align="center">
-  <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/"><img src="https://img.shields.io/badge/🎮_ABRIR_VITRINE_INTERATIVA-1B8B9F?style=for-the-badge" alt="Abrir todas as demonstrações"/></a>
+  <sub>RONI GOMES DE LIMA &nbsp; / &nbsp; DATA · SOFTWARE · OPERATIONS</sub>
 </p>
-
-> **Sobre as demonstrações:** os previews de BI, roteirização, pedidos e tradução usam **dados fictícios** e frontends independentes para apresentar conceitos e fluxos, sem conexão com sistemas corporativos. O formulário de matrícula abre o projeto HTML/CSS real.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 BI Logístico
-Indicadores e visualização operacional.
-
-[▶️ Preview interativo](https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/?demo=bi) · [💻 Código-base](https://github.com/Ronilima1810/bi-logistica)
-
-</td>
-<td width="50%" valign="top">
-
-### 🚚 Roteirizador de motoristas
-Simulação de rota, sequência de paradas e conclusão de entregas.
-
-[▶️ Preview interativo](https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/?demo=rota)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 Sistema de Pedidos
-Catálogo e carrinho demonstrativos.
-
-[▶️ Preview interativo](https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/?demo=pedidos) · [💻 Código PHP](https://github.com/Ronilima1810/sistema-pedidos)
-
-</td>
-<td width="50%" valign="top">
-
-### 📝 Formulário de Matrícula
-Interface HTML/CSS original da escola fictícia Estrela do Amanhã.
-
-[🌍 Abrir site real](https://ronilima1810.github.io/formulario-de-matricula/) · [💻 Código](https://github.com/Ronilima1810/formulario-de-matricula)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Tradutor de Arquivos
-Prévia do fluxo visual do aplicativo desktop PyQt.
-
-[▶️ Preview interativo](https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/?demo=tradutor) · [💻 Projeto Python](https://github.com/Ronilima1810/Sistemas)
-
-</td>
-<td width="50%" valign="top">
-
-### ✨ Todos os projetos
-Reunidos em uma vitrine responsiva e navegável.
-
-[🚀 Acessar a vitrine](https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/)
-
-</td>
-</tr>
-</table>
-
-
-## 🎯 Diferenciais
-
-- **Visão multidisciplinar:** dados + desenvolvimento + processos.
-- **Experiência operacional:** indicadores, planejamento, análise de problemas e suporte às decisões.
-- **Projetos demonstráveis:** interfaces navegáveis, com código público quando apropriado e dados fictícios.
-- **Compromisso com segurança:** separação entre portfólio e ambientes empresariais.
-
----
-
-## 🔐 Desenvolvimento com responsabilidade
-
-Projetos que envolvem operações reais, dados pessoais, credenciais, clientes ou propriedade intelectual de terceiros **não são publicados integralmente**. Quando permitido, exemplos e demonstrações utilizam dados fictícios e código independente da produção.
-
-<p align="center"><sub>Dados · Engenharia de Software · Automação · Operações</sub></p>
