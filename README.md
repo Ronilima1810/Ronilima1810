@@ -33,41 +33,70 @@
 
 > As estatísticas são calculadas a partir dos dados disponíveis no GitHub e podem não representar todo o trabalho realizado em repositórios privados ou fora da plataforma. Os cartões dependem de serviços externos.
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos com preview navegável
+
+<p align="center">
+  <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/"><img src="https://img.shields.io/badge/🎮_ABRIR_VITRINE_INTERATIVA-1B8B9F?style=for-the-badge" alt="Abrir todas as demonstrações"/></a>
+</p>
+
+> **Sobre as demonstrações:** os previews de BI, roteirização, pedidos e tradução usam **dados fictícios** e frontends independentes para apresentar conceitos e fluxos, sem conexão com sistemas corporativos. O formulário de matrícula abre o projeto HTML/CSS real.
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📈 BI Logística</h3>
-      <p>Projeto na área de dados e logística, com componentes de interface e backend.</p>
-      <p><a href="https://github.com/Ronilima1810/bi-logistica"><strong>Ver repositório ↗</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📦 Ondas</h3>
-      <p>Projeto de software com componentes Python e tecnologias web.</p>
-      <p><a href="https://github.com/Ronilima1810/ondas"><strong>Ver repositório ↗</strong></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧾 Sistema de Pedidos</h3>
-      <p>Aplicação web com PHP, JavaScript e estrutura de banco de dados.</p>
-      <p><a href="https://github.com/Ronilima1810/sistema-pedidos"><strong>Ver repositório ↗</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📝 Formulário de Matrícula</h3>
-      <p>Projeto web de interface e formulário construído com HTML e CSS.</p>
-      <p><a href="https://github.com/Ronilima1810/formulario-de-matricula"><strong>Ver repositório ↗</strong></a></p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 BI Logístico
+Indicadores e visualização operacional.
+
+[▶️ Preview interativo](https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/?demo=bi) · [💻 Código-base](https://github.com/Ronilima1810/bi-logistica)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚚 Roteirizador de motoristas
+Simulação de rota, sequência de paradas e conclusão de entregas.
+
+[▶️ Preview interativo](https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/?demo=rota)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 Sistema de Pedidos
+Catálogo e carrinho demonstrativos.
+
+[▶️ Preview interativo](https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/?demo=pedidos) · [💻 Código PHP](https://github.com/Ronilima1810/sistema-pedidos)
+
+</td>
+<td width="50%" valign="top">
+
+### 📝 Formulário de Matrícula
+Interface HTML/CSS original da escola fictícia Estrela do Amanhã.
+
+[🌍 Abrir site real](https://ronilima1810.github.io/formulario-de-matricula/) · [💻 Código](https://github.com/Ronilima1810/formulario-de-matricula)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Tradutor de Arquivos
+Prévia do fluxo visual do aplicativo desktop PyQt.
+
+[▶️ Preview interativo](https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/?demo=tradutor) · [💻 Projeto Python](https://github.com/Ronilima1810/Sistemas)
+
+</td>
+<td width="50%" valign="top">
+
+### ✨ Todos os projetos
+Reunidos em uma vitrine responsiva e navegável.
+
+[🚀 Acessar a vitrine](https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/)
+
+</td>
+</tr>
 </table>
-
-<details>
-<summary><strong>📂 Outros repositórios</strong></summary>
-
-- [Sistemas — coleção em Python](https://github.com/Ronilima1810/Sistemas)
-
-</details>
 
 ## 🔧 Áreas de atuação
 
