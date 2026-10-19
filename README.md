@@ -137,13 +137,13 @@
       <sub>01 / DATA ANALYTICS PLATFORM</sub>
       <h3>Ruby BI — Logistics Analytics</h3>
       <p>Plataforma de análise logística com linguagem visual inspirada no Ruby Tower Control. Indicadores de faturamento, volumetria, frete, expedição e performance por transportadora.</p>
-      <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/?demo=bi"><strong>Live preview</strong></a> · <a href="https://github.com/Ronilima1810/bi-logistica">Estrutura do projeto</a>
+      <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/ruby/"><strong>Live preview</strong></a> · <a href="https://github.com/Ronilima1810/bi-logistica">Estrutura do projeto</a>
     </td>
     <td width="50%" valign="top">
       <sub>02 / FLEET MANAGEMENT</sub>
       <h3>FleetOps — Administração de Frota</h3>
       <p>Produto independente para gestão de agregados, motoristas, veículos, documentos, rotas e negociação por saída, franquia de km e ajudante.</p>
-      <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/?demo=frota"><strong>Live preview</strong></a>
+      <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/fleet/"><strong>Live preview</strong></a>
     </td>
   </tr>
   <tr>
@@ -151,7 +151,7 @@
       <sub>03 / OPERATIONAL CONTROL</sub>
       <h3>Order Control Center — Torre de Pedidos</h3>
       <p>Controle do ciclo operacional de pedidos: liberação, impressão, separação, faturamento, expedição, geração de kit, reposição e prioridades por aging.</p>
-      <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/?demo=pedidos"><strong>Live preview</strong></a>
+      <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/ruby/?module=pedidos"><strong>Live preview</strong></a>
     </td>
     <td width="50%" valign="top">
       <sub>04 / DESKTOP POS / ERP WORKFLOW</sub>
@@ -174,9 +174,23 @@
       <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/?demo=tradutor"><strong>Live preview</strong></a> · <a href="https://github.com/Ronilima1810/Sistemas">Source repository</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>07 / ANDROID / KOTLIN</sub>
+      <h3>FleetOps — Aplicativo Android</h3>
+      <p>Cliente nativo Kotlin e Jetpack Compose para motoristas, criação de rotas, comprovantes e operação de última milha. Preview mobile interativo com informações fictícias.</p>
+      <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/android/"><strong>Live Android Preview</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <sub>08 / WEB ENGINEERING</sub>
+      <h3>Wave Control — Gestão de Ondas</h3>
+      <p>Frontend Next.js com planejamento de separação, produtividade, filas, status de ondas e dados sintéticos. Projeto de demonstração independente de WMS.</p>
+      <a href="https://github.com/Ronilima1810/ondas"><strong>Repositório</strong></a>
+    </td>
+  </tr>
 </table>
 
-<p><sub><strong>Portfólio seguro:</strong> Ruby BI, FleetOps, Torre de Pedidos, loja e tradutor possuem versões demonstrativas independentes com informações fictícias, sem conexão com a produção. O formulário de matrícula mantém sua interface original. As versões demonstrativas não equivalem ao código completo dos sistemas corporativos.</sub></p>
+<p><sub><strong>Portfólio seguro:</strong> Ruby BI, FleetOps, Android, Torre de Pedidos, PDV e tradutor possuem versões demonstrativas independentes com informações fictícias, sem conexão com a produção. O formulário de matrícula mantém sua interface original. As versões demonstrativas não equivalem ao código completo dos sistemas corporativos.</sub></p>
 
 ---
 
