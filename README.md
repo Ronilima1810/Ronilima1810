@@ -182,10 +182,10 @@
       <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/android/"><strong>Live Android Preview</strong></a>
     </td>
     <td width="50%" valign="top">
-      <sub>08 / WEB ENGINEERING</sub>
-      <h3>Wave Control — Gestão de Ondas</h3>
-      <p>Frontend Next.js com planejamento de separação, produtividade, filas, status de ondas e dados sintéticos. Projeto de demonstração independente de WMS.</p>
-      <a href="https://github.com/Ronilima1810/ondas"><strong>Repositório</strong></a>
+      <sub>08 / FULL STACK ENGINEERING</sub>
+      <h3>Produtos de análise e integração</h3>
+      <p>Desenvolvimento de interfaces com React, APIs, modelagem de dados, autenticação e validação automatizada, com foco em logística e eficiência operacional.</p>
+      <a href="https://github.com/Ronilima1810/bi-logistica"><strong>React + FastAPI</strong></a> · <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/"><strong>Portfólio interativo</strong></a>
     </td>
   </tr>
 </table>
