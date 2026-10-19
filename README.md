@@ -182,10 +182,10 @@
       <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/android/"><strong>Live Android Preview</strong></a>
     </td>
     <td width="50%" valign="top">
-      <sub>08 / WAREHOUSE EXECUTION SYSTEM</sub>
-      <h3>Wave Control — Gestão de Ondas</h3>
-      <p>Aplicação Next.js / TypeScript para gestão de ondas logísticas, produtividade, etapas de separação, conferência e acompanhamento de expedição.</p>
-      <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/ondas/"><strong>Live preview</strong></a> · <a href="https://github.com/Ronilima1810/ondas"><strong>Source repository</strong></a>
+      <sub>08 / FULL STACK ENGINEERING</sub>
+      <h3>Produtos de análise e integração</h3>
+      <p>Desenvolvimento de interfaces React, APIs, automação de processos, autenticação e validação de software, com foco em logística e operações.</p>
+      <a href="https://github.com/Ronilima1810/bi-logistica"><strong>React + FastAPI</strong></a> · <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/"><strong>Portfólio interativo</strong></a>
     </td>
   </tr>
 </table>
