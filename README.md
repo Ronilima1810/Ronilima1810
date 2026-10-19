@@ -124,59 +124,59 @@
 
 ---
 
-## 06 / Featured Projects
+## 06 / Featured Systems
 
 <p align="center">
-  <strong>Experimente as interfaces no navegador</strong><br/>
-  <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/"><img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-LIVE_DEMONSTRATIONS-0C595E?style=for-the-badge&logo=githubpages&logoColor=A6F6E5" alt="Abrir portfólio interativo" /></a>
+  <strong>Inteligência operacional · Gestão de frota · Controle de pedidos</strong><br/>
+  <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/"><img src="https://img.shields.io/badge/EXPLORE_SYSTEMS-INTERACTIVE_SHOWCASE-0C595E?style=for-the-badge&logo=githubpages&logoColor=A6F6E5" alt="Abrir demonstrações interativas" /></a>
 </p>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <sub>01 / DATA PLATFORM</sub>
-      <h3>BI Logístico</h3>
-      <p>Visualização de indicadores de expedição, produtividade e eficiência de frete.</p>
-      <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/?demo=bi"><strong>Live demo</strong></a> · <a href="https://github.com/Ronilima1810/bi-logistica">Source repository</a>
+      <sub>01 / DATA ANALYTICS PLATFORM</sub>
+      <h3>Ruby BI — Logistics Analytics</h3>
+      <p>Plataforma de análise logística com linguagem visual inspirada no Ruby Tower Control. Indicadores de faturamento, volumetria, frete, expedição e performance por transportadora.</p>
+      <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/?demo=bi"><strong>Live preview</strong></a> · <a href="https://github.com/Ronilima1810/bi-logistica">Estrutura do projeto</a>
     </td>
     <td width="50%" valign="top">
-      <sub>02 / LAST MILE</sub>
-      <h3>Roteirizador de Entregas</h3>
-      <p>Simulação de sequência de paradas, acompanhamento e conclusão de uma rota de entregas.</p>
-      <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/?demo=rota"><strong>Live demo</strong></a>
+      <sub>02 / FLEET MANAGEMENT</sub>
+      <h3>FleetOps — Administração de Frota</h3>
+      <p>Produto independente para gestão de agregados, motoristas, veículos, documentos, rotas e negociação por saída, franquia de km e ajudante.</p>
+      <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/?demo=frota"><strong>Live preview</strong></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <sub>03 / WEB APPLICATION</sub>
-      <h3>Sistema de Pedidos</h3>
-      <p>Interface de catálogo e carrinho com fluxo demonstrativo para pedidos personalizados.</p>
-      <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/?demo=pedidos"><strong>Live demo</strong></a> · <a href="https://github.com/Ronilima1810/sistema-pedidos">Source repository</a>
+      <sub>03 / OPERATIONAL CONTROL</sub>
+      <h3>Order Control Center — Torre de Pedidos</h3>
+      <p>Controle do ciclo operacional de pedidos: liberação, impressão, separação, faturamento, expedição, geração de kit, reposição e prioridades por aging.</p>
+      <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/?demo=pedidos"><strong>Live preview</strong></a>
     </td>
     <td width="50%" valign="top">
-      <sub>04 / FRONTEND</sub>
+      <sub>04 / E-COMMERCE APPLICATION</sub>
+      <h3>Sistema de Pedidos Online</h3>
+      <p>Projeto PHP de comércio eletrônico e personalização de produtos, distinto da Torre de Pedidos operacional.</p>
+      <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/?demo=loja"><strong>Live preview</strong></a> · <a href="https://github.com/Ronilima1810/sistema-pedidos">Source repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>05 / FRONTEND DEVELOPMENT</sub>
       <h3>Formulário de Matrícula</h3>
-      <p>Projeto frontend HTML/CSS com layout responsivo e componentes customizados.</p>
+      <p>Frontend HTML/CSS com layout responsivo e componentes customizados.</p>
       <a href="https://ronilima1810.github.io/formulario-de-matricula/"><strong>Live site</strong></a> · <a href="https://github.com/Ronilima1810/formulario-de-matricula">Source repository</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <sub>05 / DESKTOP APPLICATION</sub>
+      <sub>06 / DESKTOP SOFTWARE</sub>
       <h3>Tradutor de Arquivos</h3>
-      <p>Simulação web do fluxo de tradução de uma aplicação desktop construída em Python.</p>
-      <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/?demo=tradutor"><strong>Live demo</strong></a> · <a href="https://github.com/Ronilima1810/Sistemas">Source repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <sub>PORTFOLIO / ALL PROJECTS</sub>
-      <h3>Explore More</h3>
-      <p>Conheça todos os previews em uma vitrine responsiva e navegável.</p>
-      <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/"><strong>Open project gallery</strong></a>
+      <p>Prévia web do fluxo de tradução de uma aplicação desktop desenvolvida com Python.</p>
+      <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/?demo=tradutor"><strong>Live preview</strong></a> · <a href="https://github.com/Ronilima1810/Sistemas">Source repository</a>
     </td>
   </tr>
 </table>
 
-<p><sub><strong>Nota:</strong> Os previews de BI, roteirização, pedidos e tradução são demonstrações independentes com dados fictícios, sem conexão com sistemas empresariais. O formulário de matrícula disponibiliza a interface original.</sub></p>
+<p><sub><strong>Portfólio seguro:</strong> Ruby BI, FleetOps, Torre de Pedidos, loja e tradutor possuem versões demonstrativas independentes com informações fictícias, sem conexão com a produção. O formulário de matrícula mantém sua interface original. As versões demonstrativas não equivalem ao código completo dos sistemas corporativos.</sub></p>
 
 ---
 
