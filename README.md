@@ -154,10 +154,10 @@
       <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/?demo=pedidos"><strong>Live preview</strong></a>
     </td>
     <td width="50%" valign="top">
-      <sub>04 / E-COMMERCE APPLICATION</sub>
-      <h3>Sistema de Pedidos Online</h3>
-      <p>Projeto PHP de comércio eletrônico e personalização de produtos, distinto da Torre de Pedidos operacional.</p>
-      <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/?demo=loja"><strong>Live preview</strong></a> · <a href="https://github.com/Ronilima1810/sistema-pedidos">Source repository</a>
+      <sub>04 / DESKTOP POS / ERP WORKFLOW</sub>
+      <h3>Sistema de Pedidos — PDV Desktop</h3>
+      <p>Aplicação instalável em Windows via Electron, com frente de caixa, catálogo, estoque, venda demonstrativa e relatórios. Evolução SaaS planejada.</p>
+      <a href="https://ronilima1810.github.io/formulario-de-matricula/portfolio-demos/pdv/"><strong>Preview de interface PDV</strong></a> · <a href="https://github.com/Ronilima1810/sistema-pedidos/tree/master/desktop-pdv">Código Electron</a>
     </td>
   </tr>
   <tr>
