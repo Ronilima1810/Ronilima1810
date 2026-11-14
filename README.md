@@ -27,9 +27,27 @@
 
 <p align="center"><sub>SÃO PAULO, BRASIL &nbsp; / &nbsp; BUSINESS INTELLIGENCE &nbsp; / &nbsp; SOFTWARE DEVELOPMENT</sub></p>
 
+<!-- TECH PROFILE INTERFACE: START -->
+<p align="center">
+  <img src="assets/terminal-flow.svg" alt="Painel animado de código, dados, software e automação" width="100%" />
+</p>
+
+<p align="center">
+  <a href="#01--professional-profile"><img src="https://img.shields.io/badge/OVERVIEW-00DDF5?style=flat-square&labelColor=071728&color=087F9D" alt="Visão geral"/></a>
+  <a href="#02--professional-experience"><img src="https://img.shields.io/badge/EXPERIENCE-0B2540?style=flat-square&labelColor=071728&color=164D73" alt="Experiência"/></a>
+  <a href="#03--education--development"><img src="https://img.shields.io/badge/EDUCATION-0B2540?style=flat-square&labelColor=071728&color=164D73" alt="Formação"/></a>
+  <a href="#04--github-analytics"><img src="https://img.shields.io/badge/ACTIVITY-0B2540?style=flat-square&labelColor=071728&color=164D73" alt="Atividade"/></a>
+  <a href="#06--featured-systems"><img src="https://img.shields.io/badge/PROJECTS-0B2540?style=flat-square&labelColor=071728&color=164D73" alt="Projetos"/></a>
+</p>
+<!-- TECH PROFILE INTERFACE: END -->
+
+
 ---
 
 ## 01 / Professional Profile
+
+<!-- TECH SECTION DIVIDER -->
+<p align="center"><img src="assets/circuit-divider.svg" width="100%" alt=""/></p>
 
 <table>
   <tr>
@@ -50,6 +68,9 @@
 <p align="center"><img src="assets/expertise-panel.svg" width="100%" alt="Áreas de especialidade: Data Analytics, Software Engineering e Operations & Projects"/></p>
 
 ## 02 / Professional Experience
+
+<!-- TECH SECTION DIVIDER -->
+<p align="center"><img src="assets/circuit-divider.svg" width="100%" alt=""/></p>
 
 <table>
   <tr>
@@ -72,6 +93,9 @@
 
 ## 03 / Education & Development
 
+<!-- TECH SECTION DIVIDER -->
+<p align="center"><img src="assets/circuit-divider.svg" width="100%" alt=""/></p>
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -93,6 +117,9 @@
 ---
 
 ## 04 / GitHub Analytics
+
+<!-- TECH SECTION DIVIDER -->
+<p align="center"><img src="assets/circuit-divider.svg" width="100%" alt=""/></p>
 
 <p align="center"><sub>PUBLIC ACTIVITY &nbsp; / &nbsp; REPOSITORY LANGUAGES &nbsp; / &nbsp; CONTRIBUTIONS</sub></p>
 
@@ -118,6 +145,9 @@
 
 ## 05 / Technology Stack
 
+<!-- TECH SECTION DIVIDER -->
+<p align="center"><img src="assets/circuit-divider.svg" width="100%" alt=""/></p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-111C2F?style=for-the-badge&logo=python&logoColor=F5C84C" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-111C2F?style=for-the-badge&logo=mysql&logoColor=66CFF2" alt="SQL" />
@@ -133,6 +163,9 @@
 ---
 
 ## 06 / Featured Systems
+
+<!-- TECH SECTION DIVIDER -->
+<p align="center"><img src="assets/circuit-divider.svg" width="100%" alt=""/></p>
 
 <p align="center">
   <strong>Inteligência operacional · Gestão de frota · Controle de pedidos</strong><br/>
@@ -203,6 +236,9 @@
 ---
 
 ## 07 / Engineering Principles
+
+<!-- TECH SECTION DIVIDER -->
+<p align="center"><img src="assets/circuit-divider.svg" width="100%" alt=""/></p>
 
 <p><strong>Business-driven development</strong> — Soluções pensadas para processos e necessidades reais.</p>
 <p><strong>Usability &amp; clarity</strong> — Interfaces legíveis, consistentes e orientadas à experiência.</p>

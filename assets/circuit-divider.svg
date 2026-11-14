@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="32" viewBox="0 0 1200 32" role="img" aria-label="Linha divisória tecnológica">
+<defs><linearGradient id="line" x1="0" x2="1"><stop stop-color="#031624"/><stop offset=".46" stop-color="#14BFE5"/><stop offset=".55" stop-color="#39F2FA"/><stop offset="1" stop-color="#031624"/></linearGradient>
+<style>.march{stroke-dasharray:12 18;animation:glide 9s linear infinite}.dot{animation:p 3s ease-in-out infinite}@keyframes glide{to{stroke-dashoffset:-240}}@keyframes p{0%,100%{opacity:.3}50%{opacity:1}}@media (prefers-reduced-motion:reduce){.march,.dot{animation:none}}</style></defs>
+<path d="M4 15H372L401 3H779L809 15H1196" stroke="#174663" stroke-width="2" fill="none"/>
+<path d="M4 15H372L401 3H779L809 15H1196" stroke="url(#line)" stroke-width="2.8" fill="none" class="march"/>
+<circle cx="403" cy="3" r="3" fill="#32E6F8" class="dot"/><circle cx="778" cy="3" r="3" fill="#32E6F8" class="dot"/>
+</svg>
