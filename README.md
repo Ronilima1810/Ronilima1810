@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/roni-banner.svg" alt="Roni Lima | Software, Data & Automation" width="100%" />
+  <img src="assets/roni-banner-animado.gif" alt="Roni Lima | Software, Data & Automation" width="100%" />
 </p>
 
 <h1 align="center">Roni Gomes de Lima</h1>
